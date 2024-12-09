@@ -2,6 +2,9 @@ program auction.aleo {
     // Test protective_mini   Test protective_mini   Test protective_mini   
     // Test protective_mini   Test protective_mini   Test protective_mini   
     // Test protective_mini   Test protective_mini   Test protective_mini   
+    // Test protective_mini   Test protective_mini   Test protective_mini   
+
+    // commit to branch1
 
     // A bid in an auction.
     // - `owner`     : The address of the account that owns the record associated with this bid.
